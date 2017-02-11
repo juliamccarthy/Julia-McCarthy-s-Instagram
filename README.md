@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is an Instagram-like website created on Ruby on Rails based upon the YouTube Tutorial by Beginner Programmers: https://www.youtube.com/watch?v=MpFO4Zr0EPE
 
 Things you may want to cover:
 
